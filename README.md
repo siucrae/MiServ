@@ -9,7 +9,7 @@ MiServ is a **Python-based Server Manager** that simplifies the process of setti
 - [x] Real Time Logging
 - [x] Mod Support
 - [x] Easy Setup
-- [ ] Cross-Platform Support
+- [x] Cross-Platform Support
 - [ ] A working GUI
 - [ ] Automated Backups
 - [ ] Multiple Game Compatibility
