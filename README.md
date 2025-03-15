@@ -4,7 +4,7 @@ MiServ is a **Python-based Server Manager** that simplifies the process of setti
 
 ---
 
-### Features
+## Features
 - [x] Working Server Loader
 - [x] Real Time Logging
 - [x] Mod Support
@@ -19,8 +19,21 @@ MiServ is a **Python-based Server Manager** that simplifies the process of setti
 
 ## Getting Started
 
+### For Non-Technical Users
+1. Download the latest release from the [Releases page](https://github.com/siucrae/MiServ/releases).
+2. Extract the ZIP file.
+3. Double-click `miServ.exe` to run the program.
+
+## For Advanced Users
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/siucrae/MiServ.git
+   cd MiServ
+2. Run the script
+
 ### Requirements
 - **Python 3.x**
+- **Dependencies: `psutil`, `pyyaml`**
 - **Java 17 or later** (for Minecraft 1.18+)
 - **Minecraft Server JAR** (e.g., `server.jar` or a mod loader like `forge-1.20.1-47.1.0.jar`)
 
